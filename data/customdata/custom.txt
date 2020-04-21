@@ -1,58 +1,30 @@
-./data/customdata/images/2Q__.jpg
-./data/customdata/images/9k_ (1).jpg
-./data/customdata/images/9k_.jpg
-./data/customdata/images/images (1).jpg
-./data/customdata/images/images (19).jpg
-./data/customdata/images/images (2).jpg
-./data/customdata/images/images (21).jpg
-./data/customdata/images/images (29).jpg
-./data/customdata/images/images (35).jpg
-./data/customdata/images/images (36).jpg
-./data/customdata/images/images (42).jpg
-./data/customdata/images/images (45).jpg
-./data/customdata/images/images (47).jpg
-./data/customdata/images/images (64).jpg
-./data/customdata/images/images (77).jpg
-./data/customdata/images/images (80).jpg
-./data/customdata/images/images (81).jpg
-./data/customdata/images/images (83).jpg
-./data/customdata/images/images (85).jpg
-./data/customdata/images/images (86).jpg
-./data/customdata/images/images (88).jpg
-./data/customdata/images/images - 2020-04-21T084000.003.jpg
-./data/customdata/images/images - 2020-04-21T084000.612.jpg
-./data/customdata/images/images - 2020-04-21T084002.427.jpg
-./data/customdata/images/images - 2020-04-21T084002.866.jpg
-./data/customdata/images/images - 2020-04-21T084003.559.jpg
-./data/customdata/images/images - 2020-04-21T084004.078.jpg
-./data/customdata/images/images - 2020-04-21T084005.399.jpg
-./data/customdata/images/images - 2020-04-21T084005.553.jpg
-./data/customdata/images/images - 2020-04-21T084008.392.jpg
-./data/customdata/images/images - 2020-04-21T084008.956.jpg
-./data/customdata/images/images - 2020-04-21T084010.341.jpg
-./data/customdata/images/images - 2020-04-21T084015.297.jpg
-./data/customdata/images/images - 2020-04-21T084019.378.jpg
-./data/customdata/images/images - 2020-04-21T084024.956.jpg
-./data/customdata/images/images - 2020-04-21T084029.349.jpg
-./data/customdata/images/images - 2020-04-21T084030.320.jpg
-./data/customdata/images/images - 2020-04-21T084031.796.jpg
-./data/customdata/images/images - 2020-04-21T084033.792.jpg
-./data/customdata/images/images - 2020-04-21T084034.341.jpg
-./data/customdata/images/images - 2020-04-21T084040.563.jpg
-./data/customdata/images/images - 2020-04-21T084040.657.jpg
-./data/customdata/images/images - 2020-04-21T084040.779.jpg
-./data/customdata/images/images - 2020-04-21T084041.441.jpg
-./data/customdata/images/images - 2020-04-21T084044.134.jpg
-./data/customdata/images/images - 2020-04-21T084047.940.jpg
-./data/customdata/images/images - 2020-04-21T084050.212.jpg
-./data/customdata/images/images - 2020-04-21T084052.650.jpg
-./data/customdata/images/images - 2020-04-21T084053.698.jpg
-./data/customdata/images/images - 2020-04-21T084054.232.jpg
-./data/customdata/images/images - 2020-04-21T084054.820.jpg
-./data/customdata/images/images - 2020-04-21T084110.220.jpg
-./data/customdata/images/images - 2020-04-21T084110.709.jpg
-./data/customdata/images/images - 2020-04-21T084111.580.jpg
-./data/customdata/images/images - 2020-04-21T084113.561.jpg
-./data/customdata/images/images.jpg
-./data/customdata/images/Z (1).jpg
-./data/customdata/images/Z.jpg
+./data/customdata/images/2Q__ (2).txt
+./data/customdata/images/9k_.txt
+./data/customdata/images/images (19).txt
+./data/customdata/images/images (21).txt
+./data/customdata/images/images (29).txt
+./data/customdata/images/images (36).txt
+./data/customdata/images/images (64).txt
+./data/customdata/images/images (80).txt
+./data/customdata/images/images (81).txt
+./data/customdata/images/images (88).txt
+./data/customdata/images/images - 2020-04-21T084002.866.txt
+./data/customdata/images/images - 2020-04-21T084003.559.txt
+./data/customdata/images/images - 2020-04-21T084004.078.txt
+./data/customdata/images/images - 2020-04-21T084005.399.txt
+./data/customdata/images/images - 2020-04-21T084005.553.txt
+./data/customdata/images/images - 2020-04-21T084010.341.txt
+./data/customdata/images/images - 2020-04-21T084015.297.txt
+./data/customdata/images/images - 2020-04-21T084024.956.txt
+./data/customdata/images/images - 2020-04-21T084029.349.txt
+./data/customdata/images/images - 2020-04-21T084030.320.txt
+./data/customdata/images/images - 2020-04-21T084033.792.txt
+./data/customdata/images/images - 2020-04-21T084034.341.txt
+./data/customdata/images/images - 2020-04-21T084040.563.txt
+./data/customdata/images/images - 2020-04-21T084040.779.txt
+./data/customdata/images/images - 2020-04-21T084044.134.txt
+./data/customdata/images/images - 2020-04-21T084052.650.txt
+./data/customdata/images/images - 2020-04-21T084054.820.txt
+./data/customdata/images/images - 2020-04-21T084110.220.txt
+./data/customdata/images/images - 2020-04-21T084110.709.txt
+./data/customdata/images/images - 2020-04-21T084111.580.txt
