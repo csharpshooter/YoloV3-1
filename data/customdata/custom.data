@@ -1,4 +1,4 @@
 classes=1
-train=data/smalcoco/custom.txt
-valid=data/smalcoco/custom.txt
-names=data/custom.names
+train=data/customdata/custom.txt
+valid=data/customdata/custom.txt
+names=data/customdata/custom.names
