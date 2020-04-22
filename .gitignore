@@ -1,1 +1,7 @@
 /weights/yolov3-spp-ultralytics.pt
+
+.idea/inspectionProfiles/
+
+.idea/
+
+weights/last.pt
