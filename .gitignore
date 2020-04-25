@@ -5,3 +5,7 @@
 .idea/
 
 weights/last.pt
+
+output videos/
+
+weights/
